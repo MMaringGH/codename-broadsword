@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 21
-  productGUID: 00000000000000000000000000000000
+  productGUID: f5a82ba6de92f6f4e87ff0533431d087
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -591,7 +591,8 @@ PlayerSettings:
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
-  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
+    a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
@@ -643,7 +644,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: b022fa3c-b5da-4e43-b700-70ca80e0760a
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: codename-broadsword (1)
   organizationId: m4r1n6
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
